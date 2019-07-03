@@ -3,83 +3,83 @@
   "vocabulary": [
     {
       "eng": "allocate",
-      "cht": "撥出、分配、配置"
+      "cht": "(v.) 撥出、分配、配置"
     },
     {
       "eng": "applicant",
-      "cht": "申請人"
+      "cht": "(n.) 申請人"
     },
     {
       "eng": "authorize",
-      "cht": "授權、委託"
+      "cht": "(v.) 授權、委託"
     },
     {
       "eng": "bonus",
-      "cht": "紅利、額外津貼、獎金"
+      "cht": "(n.) 紅利、額外津貼、獎金"
     },
     {
       "eng": "capability",
-      "cht": "能力、才幹、潛力、性能"
+      "cht": "(n.) 能力、才幹、潛力、性能"
     },
     {
       "eng": "collaboration",
-      "cht": "合作、通敵"
+      "cht": "(n.) 合作、通敵"
     },
     {
       "eng": "consultation",
-      "cht": "諮詢、商量、商議、會議"
+      "cht": "(n.) 諮詢、商量、商議、會議"
     },
     {
       "eng": "curriculum vitae",
-      "cht": "履歷"
+      "cht": "(phr.) 履歷"
     },
     {
       "eng": "eligible",
-      "cht": "合格的、合適的"
+      "cht": "(adj.) 合格的、合適的"
     },
     {
       "eng": "employer",
-      "cht": "雇主"
+      "cht": "(n.) 雇主"
     },
     {
       "eng": "executive",
-      "cht": "行政人員、管理人員"
+      "cht": "(n.) 行政人員、管理人員"
     },
     {
       "eng": "income",
-      "cht": "收入、所得"
+      "cht": "(n.) 收入、所得"
     },
     {
       "eng": "lay off",
-      "cht": "(暫時) 解僱"
+      "cht": "(phr.) (暫時) 解僱"
     },
     {
       "eng": "occupation",
-      "cht": "職業"
+      "cht": "(n.) 職業"
     },
     {
       "eng": "part-time",
-      "cht": "兼任的、兼職的"
+      "cht": "(adj.) 兼任的、兼職的"
     },
     {
       "eng": "permanent",
-      "cht": "永久的、不變的"
+      "cht": "(adj.) 永久的、不變的"
     },
     {
       "eng": "promote",
-      "cht": "升遷、促銷"
+      "cht": "(v.) 升遷、促銷"
     },
     {
       "eng": "recruit",
-      "cht": "吸收、徵募"
+      "cht": "(v.) 吸收、徵募"
     },
     {
       "eng": "resume",
-      "cht": "履歷表"
+      "cht": "(n.) 履歷表"
     },
     {
       "eng": "salary",
-      "cht": "薪水"
+      "cht": "(n.) 薪水"
     }
   ]
 }
