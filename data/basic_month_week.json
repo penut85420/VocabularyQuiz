@@ -1,0 +1,81 @@
+{
+  "title": "Month & Week",
+  "vocabulary": [
+    {
+      "eng": "January",
+      "cht": "(n.) 1月"
+    },
+    {
+      "eng": "February",
+      "cht": "(n.) 2月"
+    },
+    {
+      "eng": "March",
+      "cht": "(n.) 3月"
+    },
+    {
+      "eng": "April",
+      "cht": "(n.) 4月"
+    },
+    {
+      "eng": "May",
+      "cht": "(n.) 5月"
+    },
+    {
+      "eng": "June",
+      "cht": "(n.) 6月"
+    },
+    {
+      "eng": "July",
+      "cht": "(n.) 7月"
+    },
+    {
+      "eng": "August",
+      "cht": "(n.) 8月"
+    },
+    {
+      "eng": "September",
+      "cht": "(n.) 9月"
+    },
+    {
+      "eng": "October",
+      "cht": "(n.) 10月"
+    },
+    {
+      "eng": "November",
+      "cht": "(n.) 11月"
+    },
+    {
+      "eng": "December",
+      "cht": "(n.) 12月"
+    },
+    {
+      "eng": "Sunday",
+      "cht": "(n.) 星期日"
+    },
+    {
+      "eng": "Monday",
+      "cht": "(n.) 星期一"
+    },
+    {
+      "eng": "Tuesday",
+      "cht": "(n.) 星期二"
+    },
+    {
+      "eng": "Wednesday",
+      "cht": "(n.) 星期三"
+    },
+    {
+      "eng": "Thursday",
+      "cht": "(n.) 星期四"
+    },
+    {
+      "eng": "Friday",
+      "cht": "(n.) 星期五"
+    },
+    {
+      "eng": "Saturday",
+      "cht": "(n.) 星期六"
+    }
+  ]
+}
