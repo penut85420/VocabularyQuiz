@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import threading
 from random import shuffle
 from threading import Thread
@@ -23,7 +24,10 @@ class VoiceManager:
                     self.voice[file_name[:-4]] = full_path
     
     def get_path(self, text):
-        return os.path.join(VoiceManager.VOICE_PATH, '%s.mp3' % text)
+        text = re.sub('[<>:"/|?*]', '_', text)
+        path = os.path.join(VoiceManager.VOICE_PATH, '%s.mp3' % text)
+        print(path)
+        return path
 
     def play(self, text):
         vpath = self.get_path(text)
@@ -115,7 +119,10 @@ class Main:
             print('[%s] %s' % ('0', 'Exit'))
             
             chs = input(' > ')
-            if chs[0] == '0':
+            while chs == '':
+                chs = input(' > ')
+            
+            if chs == '0':
                 print('Bye!')
                 exit(0)
             
