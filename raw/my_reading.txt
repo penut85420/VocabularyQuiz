@@ -15,3 +15,4 @@ critically	(adv.) 重要的是
 constrained	(adj.) 受限
 arbitrary	(adj.) 隨意的、獨斷的
 contiguous	(adj.) 鄰近的
+analogous	(adj.) 類似的、相似的
