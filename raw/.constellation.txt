@@ -1,0 +1,16 @@
+Aries	(n.) 牡羊座
+Taurus	(n.) 金牛座
+Gemini	(n.) 雙子座
+Cancer	(n.) 巨蟹座
+Leo	(n.) 獅子座
+Virgo	(n.) 處女座
+Libra	(n.) 天秤座
+Scorpio	(n.) 天蠍座
+Sagittarius	(n.) 射手座
+Capricorn	(n.) 魔羯座
+Aquarius	(n.) 水瓶座
+Pisces	(n.) 雙魚座
+constellation	(n.) 星座
+horoscope	(n.) 星座運勢
+astrology	(n.) 占星術
+What's your sign?	(sent.) 你是什麼星座?

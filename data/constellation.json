@@ -1,0 +1,69 @@
+{
+  "title": "Constellation",
+  "vocabulary": [
+    {
+      "eng": "Aries",
+      "cht": "(n.) 牡羊座"
+    },
+    {
+      "eng": "Taurus",
+      "cht": "(n.) 金牛座"
+    },
+    {
+      "eng": "Gemini",
+      "cht": "(n.) 雙子座"
+    },
+    {
+      "eng": "Cancer",
+      "cht": "(n.) 巨蟹座"
+    },
+    {
+      "eng": "Leo",
+      "cht": "(n.) 獅子座"
+    },
+    {
+      "eng": "Virgo",
+      "cht": "(n.) 處女座"
+    },
+    {
+      "eng": "Libra",
+      "cht": "(n.) 天秤座"
+    },
+    {
+      "eng": "Scorpio",
+      "cht": "(n.) 天蠍座"
+    },
+    {
+      "eng": "Sagittarius",
+      "cht": "(n.) 射手座"
+    },
+    {
+      "eng": "Capricorn",
+      "cht": "(n.) 魔羯座"
+    },
+    {
+      "eng": "Aquarius",
+      "cht": "(n.) 水瓶座"
+    },
+    {
+      "eng": "Pisces",
+      "cht": "(n.) 雙魚座"
+    },
+    {
+      "eng": "constellation",
+      "cht": "(n.) 星座"
+    },
+    {
+      "eng": "horoscope",
+      "cht": "(n.) 星座運勢"
+    },
+    {
+      "eng": "astrology",
+      "cht": "(n.) 占星術"
+    },
+    {
+      "eng": "What's your sign?",
+      "cht": "(sent.) 你是什麼星座?"
+    }
+  ]
+}
