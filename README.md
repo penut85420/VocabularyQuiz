@@ -2,7 +2,8 @@
 
 ## Features
 + 簡易的 CLI 拼字測驗
-+ 附帶 Google 發音
++ 簡易的 Google 發音
++ 簡易的結果統計
 
 ## Usage
 
@@ -23,6 +24,9 @@
 	...
 	```
   + 執行 `$ convert.py [source_file] [title]`
+
+## Results
++ 測驗結果會存在 `'./results/'` 資料夾下
 
 ## Reference
 + App [超級單字王](https://superwordking.wixsite.com/home)
